@@ -32,14 +32,42 @@ For more details about Amahane Chat, visit the [Official Website](https://amahan
 
 ## 🚀 Features
 
-### Customizable Interface
-- Tailor the UI to suit your anime aesthetics.
+### 🐱 AI Cat Girl Companion
+- Customizable and interactive Live2D powered AI.
 
-### Real-time Chat
-- Effortless and lag-free conversations with friends.
+### 💬 Real-time Chat
+- Fast and reliable chat service.
 
-### Video & Voice Chat
-- Smooth WebRTC integrated for video and voice chat.
+### 🌐 Multi-language Support
+- Fluent communication in both Chinese and Japanese.
 
-### Multi-language Support
-- Chat in both Chinese and Japanese.
+### 📹 Video & Voice Chat
+- Smooth WebRTC integrated video and voice chat.
+
+### 🎤 Customizable Voice
+- Alter the AI companion's voice to suit your preferences.
+
+
+# Installation
+Clone the repository:
+```bash
+git clone git@github.com:animedaisuki/fe.jpchat.git
+```
+
+Install dependencies:
+```bash
+cd fe.jpchat
+npm install
+```
+
+Create a .env file and add your environment variables.
+
+Run the project:
+
+```bash
+npm start
+```
+
+# License
+MIT License
+
