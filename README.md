@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <h5 align="center">🌸 Your Anime & Manga Experience Reimagined! 🌸</h5>
+    <h5 align="center">🌸 Get Your Own Cat Girl! 🌸</h5>
 </p>
 
 <!-- Badges go here: Twitter, Discord, Downloads, etc -->
