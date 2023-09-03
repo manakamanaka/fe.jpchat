@@ -47,6 +47,13 @@ For more details about Amahane Chat, visit the [Official Website](https://amahan
 ### 🎤 Customizable Voice
 - Alter the AI companion's voice to suit your preferences.
 
+## 💻 Technologies Used
+- React
+- ChatGPT-4
+- WebSocket
+- WebRTC
+- Azure Cognitive Language Services
+- Live2D
 
 # Installation
 Clone the repository:
