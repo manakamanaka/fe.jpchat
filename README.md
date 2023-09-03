@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD041 -->
 
 <p align="center">
-    <h1 align="center">🌸 fe.jpchat: Frontend for Amahane Chat 🌸</h1>
+    <h1 align="center">🌸 Amahane Chat 🌸</h1>
 </p>
 
 <p align="center">
