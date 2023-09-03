@@ -19,7 +19,7 @@
 
 ## 📚 What is Amahanechat?
 
-`Amahane Chat` is a specialized platform for anime and manga fans, featuring a unique Japanese aesthetic and an interactive AI cat girl, Chtholly. The platform supports real-time chat, video and voice calls via WebRTC, and multi-language support for Chinese and Japanese. Developed with Live2D and ChatGPT-4, it provides a seamless and immersive experience for its users.
+**Amahane Chat** is a specialized platform for anime and manga fans, featuring a unique Japanese aesthetic and an interactive AI cat girl, Chtholly. The platform supports real-time chat, video and voice calls via WebRTC, and multi-language support for Chinese and Japanese. Developed with Live2D and ChatGPT-4, it provides a seamless and immersive experience for its users.
 
 ## 🌈 Connection with Amahane Chat
 
