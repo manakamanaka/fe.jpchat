@@ -25,9 +25,9 @@
 
 <!-- Badges go here: Twitter, Discord, Downloads, etc -->
 
-## 📚 What is fe.jpchat?
+## 📚 What is Amahanechat?
 
-`fe.jpchat` is the frontend repository for Amahane Chat, an immersive chat platform tailored for anime and manga enthusiasts. This repository contains all the frontend code responsible for delivering a unique Japanese-style animation design and an interactive chat experience.
+`Amahane Chat` is a specialized platform for anime and manga fans, featuring a unique Japanese aesthetic and an interactive AI cat girl, Chtholly. The platform supports real-time chat, video and voice calls via WebRTC, and multi-language support for Chinese and Japanese. Developed with Live2D and ChatGPT-4, it provides a seamless and immersive experience for its users.
 
 ## 🌈 Connection with Amahane Chat
 
