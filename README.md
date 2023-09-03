@@ -55,7 +55,7 @@ For more details about Amahane Chat, visit the [Official Website](https://amahan
 - Azure Cognitive Language Services
 - Live2D
 
-# Installation
+# 🛠️ Installation
 Clone the repository:
 ```bash
 git clone git@github.com:animedaisuki/fe.jpchat.git
@@ -75,6 +75,6 @@ Run the project:
 npm start
 ```
 
-# License
+# 📜 License
 MIT License
 
