@@ -9,14 +9,6 @@
   <a aria-label="official website" href="https://amahanechat.org/register" target="_blank">
     Official Website
   </a>
-  ·
-  <a aria-label="WebSocket Server Repository" href="https://github.com/animedaisuki/socket.amahanechat" target="_blank">
-    WebSocket Server
-  </a>
-  ·
-  <a aria-label="documentation" href="" target="_blank">
-    Documentation
-  </a>
 </p>
 
 <p align="center">
